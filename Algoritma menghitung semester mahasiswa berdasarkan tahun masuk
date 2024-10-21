@@ -1,0 +1,8 @@
+Inisiasi : 1. Tahun masuk
+           2.	Tahun sekarang
+           3.	Jumlah semester dalam setahun = 2
+Proses :   4. Hitung selisih tahun
+              Selisih tahun=tahun masuk-tahun sekarang
+           5.	Hitung semester
+              Selisih tahun*jumlah semester dalam setahun adalah 2
+Output :   6.  Tampilkan semester mahasiswa
