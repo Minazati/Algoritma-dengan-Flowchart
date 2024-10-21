@@ -1,0 +1,4 @@
+Inisasi:  1. Angka
+Proses:   2. Apabila angka mod 2 sama dengan 0, maka angka merupakan bilangan genap
+          3. Apabila angka mod 2 tidak sama dengan 0, maka angka merupakan bilangan ganjil
+Output:   4. Tampilkan hasil
